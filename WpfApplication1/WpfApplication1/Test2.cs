@@ -14,6 +14,7 @@ namespace WpfApplication1
         public static string hello2()
         {
             return "hello23";
+
         }
     }
 }
