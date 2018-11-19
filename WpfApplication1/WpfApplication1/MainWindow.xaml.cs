@@ -26,7 +26,8 @@ namespace WpfApplication1
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show(Test.TouchMe() + " " + Test2.Who());
+            //MessageBox.Show(Test.TouchMe() + " " + Test2.Who());
+            MessageBox.Show(TestGlee.Hello());
         }
     }
 }
