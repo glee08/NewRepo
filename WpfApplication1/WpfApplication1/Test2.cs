@@ -13,7 +13,7 @@ namespace WpfApplication1
         }
         public static string hello2()
         {
-            return "hello2";
+            return "hello1";
         }
     }
 }
