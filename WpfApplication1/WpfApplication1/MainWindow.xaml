@@ -11,6 +11,7 @@
             <TextBlock x:Name="textBlock" Text="Hello World!" FontSize="40"/>
             <TextBlock Text="i am author"/>
             <TextBlock Text="i am shirley"/>
+            <Button Content="touch me" Padding="20,5" FontSize="20" Click="button_Click"/>
         </StackPanel>
         
 
