@@ -9,11 +9,12 @@ namespace WpfApplication1
     {
         public static string Who()
         {
-            return "Who";
+            return "Who am i";
         }
         public static string hello2()
         {
-            return "hello1";
+            return "hello23";
+
         }
     }
 }
