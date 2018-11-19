@@ -55,6 +55,7 @@
     </ApplicationDefinition>
     <Compile Include="Test.cs" />
     <Compile Include="Test2.cs" />
+    <Compile Include="TestGlee.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
