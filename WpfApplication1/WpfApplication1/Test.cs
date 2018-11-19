@@ -10,5 +10,8 @@ namespace WpfApplication1
         public static string TouchMe() {
             return "你真坏!";
         }
+        public static string TouchMe2() {
+            return "TouchMe2";
+        }
     }
 }
