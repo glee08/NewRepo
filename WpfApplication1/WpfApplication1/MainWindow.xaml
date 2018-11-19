@@ -10,6 +10,7 @@
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBlock x:Name="textBlock" Text="Hello World!" FontSize="40"/>
             <TextBlock Text="i am author"/>
+            <TextBlock Text="i am shirley"/>
         </StackPanel>
         
 
